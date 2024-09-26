@@ -6,6 +6,11 @@ I used some images from [this site](https://www.freepik.com)
 specifically, [bottle image](https://www.freepik.com/premium-photo/bottle-with-cola-white-background_15762923.htm#fromView=search&page=1&position=25&uuid=206ff270-5123-4597-b3cf-3186f6d2a513) , [cat drinking and eating](https://www.freepik.com/free-vector/healthy-food-stickers-collection-with-tomomi-cat_41165336.htm#fromView=search&page=1&position=16&uuid=03d778ad-6863-4cc1-b233-2e48fea3b9af)
 This is what I have modified to make this.
 
+Please feel free to play with this as well.
+
+## How to Contribute
+
+
 ### Cloning
 
 1. Open Terminal or Git Bash:
@@ -41,9 +46,6 @@ cd repository
 4. Start Working:
    You can now start editing files, committing changes, and pushing updates back to the remote repository.
 
-## How to Contribute
-
-If you want to use this repository, please feel free.
 
 ### Forking the Repository
 
