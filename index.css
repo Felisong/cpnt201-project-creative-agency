@@ -134,7 +134,7 @@
   display: contents;
 }
 .navigation-header {
-  background-color: rgb(212, 93, 93);
+  background-color: rgb(221, 55, 55);
   top: 0;
   width: 100%;
   display: flex;
@@ -863,6 +863,7 @@
   padding-top: 128px;
 }
 .home-max-width1 {
+  background-color: rgb(233, 175, 175);
   margin-top: var(--dl-space-space-threeunits);
 }
 .home-heading-container1 {
